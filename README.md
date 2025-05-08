@@ -28,7 +28,7 @@ This project is a **Math Expression Calculator** implemented using the **Model-V
       2/0
       ```
 
-    - Output ([output.csv](http://_vscodecontentref_/0)):
+    - Output (`output.csv`)):
 
       ```
       2+1=3
